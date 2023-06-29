@@ -8,7 +8,7 @@ Student Study Portal Project With Django.
 ## Installation
 Clone or Download this repository.
 ```
-https://github.com/Mrsidewinder13/Student-Study-Portal.git
+https://github.com/Thewinningboy2002/Student-Study-Portal.git
 ```
 Then
 ```
